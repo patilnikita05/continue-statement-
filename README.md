@@ -1,1 +1,20 @@
-# continue-statement-
+# continue-statement- 
+Using System;
+namespaceCSharp_Shell
+{
+    Public static class Program 
+    {
+        Public static void Main()
+        {
+Inti=1;
+While(i<=12)
+           {
+	I++;
+If(i==5)
+           {
+	Continue;
+           }
+Console.WriteLine(i);
+           }
+        }
+    }}
